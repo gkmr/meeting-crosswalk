@@ -1,5 +1,7 @@
 # meeting-crosswalk
 
+[![tests](https://github.com/gkmr/meeting-crosswalk/actions/workflows/tests.yml/badge.svg)](https://github.com/gkmr/meeting-crosswalk/actions/workflows/tests.yml) ![python](https://img.shields.io/badge/python-3.9%20%7C%203.12-blue) ![deps](https://img.shields.io/badge/dependencies-stdlib%20only-brightgreen) [![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+
 An agent lane that reconciles two meeting recorders and the calendars into one crosswalk, then writes corrections back into the recorder: titles, one folder per meeting, a closed tag set and speaker names, with a monthly drift judge.
 
 Unofficial. In my setup the two recorders were Granola and Krisp. This repo is not affiliated with either, and the code talks to adapter interfaces, not to any product API.
