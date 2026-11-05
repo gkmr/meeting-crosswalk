@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# outputs of `python3 -m crosswalk plan`
+out/
+ledger.json
+*.tmp
+
+# local state and backups
+.DS_Store
+.state/
+*.bak
+*.pre-v*
+node_modules/

@@ -1,0 +1,16 @@
+[
+ {
+  "capture_id": "cap-12",
+  "title": "Staff engineer loop debrief",
+  "stream": "Hiring",
+  "basis": "capture summary and the recorder B note body both describe the staff engineer loop debrief",
+  "signals": 2
+ },
+ {
+  "capture_id": "cap-27",
+  "title": "Contract renewal with Contoso",
+  "stream": "Product",
+  "basis": "capture summary names the Contoso contract renewal",
+  "signals": 1
+ }
+]
